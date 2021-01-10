@@ -5,3 +5,5 @@ Open it with swi-prolog:
 ```prolog
 play.
 ```
+# License
+[Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0)
